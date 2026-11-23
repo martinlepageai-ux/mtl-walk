@@ -1,0 +1,7 @@
+.DS_Store
+backend/data/*.sqlite3
+backend/data/*.sqlite3-shm
+backend/data/*.sqlite3-wal
+backend/__pycache__/
+**/__pycache__/
+*.py[cod]

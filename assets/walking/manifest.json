@@ -1,0 +1,296 @@
+{
+  "source_directory": "/Users/pharos_ai/Documents/Walking ",
+  "conversion": "sips JPEG quality 82; maximum dimension 1920; no upscaling, cropping or creative edits",
+  "assets": [
+    {
+      "source_name": "2D0F397D-AF6B-4B78-8A01-94B19B5DF497.png",
+      "file": "image-2d0f397d.jpg",
+      "original": {
+        "width": 1376,
+        "height": 768,
+        "format": "jpeg",
+        "bytes": 240045
+      },
+      "output": {
+        "width": 1376,
+        "height": 768,
+        "format": "jpeg",
+        "bytes": 293412
+      }
+    },
+    {
+      "source_name": "FAAC8DA6-9293-4540-A8F7-798D1C1F73CA.png",
+      "file": "image-faac8da6.jpg",
+      "original": {
+        "width": 1524,
+        "height": 704,
+        "format": "jpeg",
+        "bytes": 238056
+      },
+      "output": {
+        "width": 1524,
+        "height": 704,
+        "format": "jpeg",
+        "bytes": 321543
+      }
+    },
+    {
+      "source_name": "IMG_4419.heic",
+      "file": null,
+      "original": {
+        "width": 3024,
+        "height": 4032,
+        "format": "heic",
+        "bytes": 335593
+      },
+      "output": null,
+      "status": "conversion_issue",
+      "conversion_issue": "sips exited successfully, but visual inspection showed the JPEG derivative was entirely black. Failed derivative removed; source HEIC untouched. Use the existing reviewed outputs/assets/bernardo.jpg if suitable."
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.47.30 PM.tiff",
+      "file": "pasted-154730.jpg",
+      "original": {
+        "width": 1126,
+        "height": 1562,
+        "format": "tiff",
+        "bytes": 7037934
+      },
+      "output": {
+        "width": 1126,
+        "height": 1562,
+        "format": "jpeg",
+        "bytes": 476653
+      }
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.48.53 PM.tiff",
+      "file": "pasted-154853.jpg",
+      "original": {
+        "width": 908,
+        "height": 906,
+        "format": "tiff",
+        "bytes": 3294390
+      },
+      "output": {
+        "width": 908,
+        "height": 906,
+        "format": "jpeg",
+        "bytes": 501701
+      }
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.49.55 PM.png",
+      "file": "pasted-154955.jpg",
+      "original": {
+        "width": 912,
+        "height": 478,
+        "format": "png",
+        "bytes": 819677
+      },
+      "output": {
+        "width": 912,
+        "height": 478,
+        "format": "jpeg",
+        "bytes": 159910
+      }
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.53.18 PM.png",
+      "file": "pasted-155318.jpg",
+      "original": {
+        "width": 676,
+        "height": 897,
+        "format": "png",
+        "bytes": 1178811
+      },
+      "output": {
+        "width": 676,
+        "height": 897,
+        "format": "jpeg",
+        "bytes": 256825
+      }
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 4.05.14 PM.png",
+      "file": "pasted-160514.jpg",
+      "original": {
+        "width": 1524,
+        "height": 704,
+        "format": "png",
+        "bytes": 1581517
+      },
+      "output": {
+        "width": 1524,
+        "height": 704,
+        "format": "jpeg",
+        "bytes": 342380
+      }
+    },
+    {
+      "source_name": "WhatsApp Image 2026-11-21 at 15.47.12.jpeg",
+      "file": "whatsapp-154712.jpg",
+      "original": {
+        "width": 1126,
+        "height": 2000,
+        "format": "jpeg",
+        "bytes": 798948
+      },
+      "output": {
+        "width": 1081,
+        "height": 1920,
+        "format": "jpeg",
+        "bytes": 1062983
+      }
+    },
+    {
+      "source_name": "WhatsApp Image 2026-11-21 at 15.48.04.jpeg",
+      "file": "whatsapp-154804.jpg",
+      "original": {
+        "width": 369,
+        "height": 799,
+        "format": "jpeg",
+        "bytes": 113822
+      },
+      "output": {
+        "width": 369,
+        "height": 799,
+        "format": "jpeg",
+        "bytes": 145500
+      }
+    },
+    {
+      "source_name": "WhatsApp Image 2026-11-21 at 15.58.16.jpeg",
+      "file": "whatsapp-155816.jpg",
+      "original": {
+        "width": 2000,
+        "height": 924,
+        "format": "jpeg",
+        "bytes": 388384
+      },
+      "output": {
+        "width": 1920,
+        "height": 887,
+        "format": "jpeg",
+        "bytes": 540305
+      }
+    }
+  ],
+  "selected_derivatives": [
+    {
+      "source_name": "WhatsApp Image 2026-11-21 at 15.58.16.jpeg",
+      "file": "palais-street.jpg",
+      "quality": 70,
+      "requested_width": 1920,
+      "original": {
+        "width": 2000,
+        "height": 924,
+        "format": "jpeg",
+        "bytes": 388384
+      },
+      "output": {
+        "width": 1920,
+        "height": 887,
+        "format": "jpeg",
+        "bytes": 459068
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion"
+    },
+    {
+      "source_name": "WhatsApp Image 2026-11-21 at 15.58.16.jpeg",
+      "file": "palais-street-960.jpg",
+      "quality": 70,
+      "requested_width": 960,
+      "original": {
+        "width": 2000,
+        "height": 924,
+        "format": "jpeg",
+        "bytes": 388384
+      },
+      "output": {
+        "width": 960,
+        "height": 443,
+        "format": "jpeg",
+        "bytes": 129782
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion"
+    },
+    {
+      "source_name": "FAAC8DA6-9293-4540-A8F7-798D1C1F73CA.png",
+      "file": "square-fountain.jpg",
+      "quality": 70,
+      "requested_width": 800,
+      "original": {
+        "width": 1524,
+        "height": 704,
+        "format": "jpeg",
+        "bytes": 238056
+      },
+      "output": {
+        "width": 800,
+        "height": 369,
+        "format": "jpeg",
+        "bytes": 86777
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion"
+    },
+    {
+      "source_name": "2D0F397D-AF6B-4B78-8A01-94B19B5DF497.png",
+      "file": "palais-light.jpg",
+      "quality": 70,
+      "requested_width": 800,
+      "original": {
+        "width": 1376,
+        "height": 768,
+        "format": "jpeg",
+        "bytes": 240045
+      },
+      "output": {
+        "width": 800,
+        "height": 446,
+        "format": "jpeg",
+        "bytes": 105358
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion"
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.53.18 PM.png",
+      "file": "green-lane-walk.jpg",
+      "quality": 70,
+      "requested_width": 676,
+      "original": {
+        "width": 676,
+        "height": 897,
+        "format": "png",
+        "bytes": 1178811
+      },
+      "output": {
+        "width": 676,
+        "height": 897,
+        "format": "jpeg",
+        "bytes": 219630
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion",
+      "notes": "Original corner Instagram tag icon preserved; no crop or retouch."
+    },
+    {
+      "source_name": "Pasted 2026-11-21 at 3.48.53 PM.tiff",
+      "file": "brick-detail.jpg",
+      "quality": 70,
+      "requested_width": 800,
+      "original": {
+        "width": 908,
+        "height": 906,
+        "format": "tiff",
+        "bytes": 3294390
+      },
+      "output": {
+        "width": 800,
+        "height": 798,
+        "format": "jpeg",
+        "bytes": 303004
+      },
+      "visual_review": "passed: inspected rendered JPEG; expected photo visible, no black conversion"
+    }
+  ]
+}
